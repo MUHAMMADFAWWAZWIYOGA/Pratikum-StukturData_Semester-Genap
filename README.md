@@ -1,0 +1,1 @@
+# Pratikum_StukturData_SemesterGenap
