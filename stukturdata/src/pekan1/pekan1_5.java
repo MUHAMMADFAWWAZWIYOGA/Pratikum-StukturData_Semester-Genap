@@ -20,7 +20,7 @@ public class pekan1_5 {
 				System.out.println ();
 				
 				for ( String str :a1) ;
-				String str;
+				String str = null;
 				System.out.print(str + "");
 				System.out.println () ;
 				
