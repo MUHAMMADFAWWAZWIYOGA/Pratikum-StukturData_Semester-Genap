@@ -1,7 +1,7 @@
 # ---- PRATIKUM STUKTUR DATA----
 
 repository berisi 
-hasil pratikum , laporan pratikum, penugasan pratikum, ujian matakuliah
+hasil pratikum , laporan pratikum, penugasan pratikum, ujian matakuliah (terletak pada branch master)
 
 semester genap
 Program Studi Informatika
