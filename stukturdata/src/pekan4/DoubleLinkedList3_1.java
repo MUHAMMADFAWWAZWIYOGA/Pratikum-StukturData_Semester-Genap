@@ -5,7 +5,7 @@ public class DoubleLinkedList3_1 {
 
 	public class DoubleLinkedList3 {
 		
-		static Node head;
+		Node head;
 		class Node {
 			int data ;
 			Node prev;
@@ -31,7 +31,7 @@ public class DoubleLinkedList3_1 {
 			}
 			System.out.println( " null");
 		}
-		public static void 
+		public void 
 		main (String [] args ) {
 			DoubleLinkedList3 dll =new DoubleLinkedList3 () ;
 			dll.push (42);
